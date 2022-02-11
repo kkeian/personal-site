@@ -1,0 +1,27 @@
+.profile-picture {
+  border-radius: 50%;
+}
+
+body {
+  background-color: #F2F5C8;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+hr {
+  background-color: inherit;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #C1DEAE;
+  border-width: 5px;
+  width: 68%;
+}
+
+h1, h3 {
+  color: #219F94;
+}
+
+.introduction {
+  padding-left: 15px;
+  padding-right: 15px;
+}
