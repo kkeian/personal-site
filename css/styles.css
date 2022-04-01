@@ -1,3 +1,7 @@
+.profile-picture {
+  border-radius: 50%;
+}
+
 body {
   background-color: #F2F5C8;
   margin: 0;
@@ -25,7 +29,11 @@ h3 {
 }
 
 .middle-container {
-  background-color: red;
+  background-color: #6dc9b8;
+}
+
+.bottom-container {
+  padding-top: 10px;
 }
 
 .pro {
@@ -42,4 +50,13 @@ h3 {
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+
+.japanese-picture {
+  width: 70%;
+  height: auto;
+}
+
+.contact-me {
+  padding-bottom: 10px;
 }
