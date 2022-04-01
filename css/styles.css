@@ -3,7 +3,6 @@
 }
 
 body {
-  background-color: #F2F5C8;
   margin: 0;
   text-align: center;
   font-family: "Merriweather", serif
@@ -29,11 +28,9 @@ h3 {
 }
 
 .middle-container {
-  background-color: #6dc9b8;
 }
 
 .bottom-container {
-  padding-top: 10px;
 }
 
 .pro {
